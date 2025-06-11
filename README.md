@@ -21,6 +21,10 @@
 ### Live ChatBot
 [live_chatbot](https://github.com/WizzyHarry/line-bot)
 
+### Data Preprocessing Certification w. Python & SQL
+[certification_ipynb's](https://github.com/WizzyHarry/data_certification)
+
+
 <!--
 **WizzyHarry/WizzyHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
