@@ -1,41 +1,41 @@
-## Keith Faunce
+# Hi, I’m Keith Faunce
 
-#### Github details
+Welcome to my GitHub profile! This space highlights a selection of my projects and coursework across data science, software engineering, and database management.
 
-* Various classes taken during undergraudate IT program at Florida State.
-* Racing Analysis: Is there a better driver than the winner?
-* Automated Response ChatBot Deployment
+# 🐍 Python
 
-### Python Coding
-[python_coding](https://github.com/WizzyHarry/Python-Coding)
+[Hands-on coding projects focused on data analysis, automation, and problem-solving using Pandas and NumPy](https://github.com/keithfaunce/python)
 
-### Machine Learning
-[machine_learning](https://github.com/WizzyHarry/Machine_Learning)
+- Tesla stock analysis with user-driven stats and custom CSV parsing
+- LINE bot chatbot (Flask + API integration)
+- Mortality data ETL pipeline with visualization
+- Inventory management system
+- Conceptual coding problem sets
 
-### SQL & Databases
-[database_management](https://github.com/WizzyHarry/database_management.git)
+# 🗄️ SQL & Database Management
 
-### Formula 1 Racing Analysis
-[data_analysis](https://github.com/WizzyHarry/f1_racing_analysis.git)
+[Experience with relational database design and management across MySQL, NoSQL, T-SQL, and Oracle SQL](https://github.com/keithfaunce/sql_dbmngmt)
 
-### Live ChatBot
-[live_chatbot](https://github.com/WizzyHarry/line-bot)
+- ERDs and DDL/DML operations in MySQL
+- Salting & hashing for secure data storage
+- User permissions & access control
+- Oracle SQL business-rule-driven database
+- Complex queries, triggers, and stored procedures
 
-### Data Preprocessing Certification w. Python & SQL
-[certification_ipynb's](https://github.com/WizzyHarry/data_certification)
+# 🤖 Machine Learning (currently updating repos & README)
 
+A collection of machine learning projects and predictive analysis studies that demonstrate model building, training, and evaluation. *Link will be here*
 
-<!--
-**WizzyHarry/WizzyHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Classification models (logistic regression)
+- Predictive analytics pipelines for real-world datasets
+- Deep learning exploration with PyTorch/TensorFlow
 
-Here are some ideas to get you started:
+# 📊 R & RStudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Projects in statistical analysis, visualization, and applied data science](https://github.com/keithfaunce/r_data)
+
+- Formula 1 race analysis: comparing winners vs. fastest drivers
+- Titanic dataset study with passenger distributions and relationships
+- Apple stock analysis using Quantmod
+- Foundational R coding and data wrangling practice
+
