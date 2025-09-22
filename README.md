@@ -22,13 +22,14 @@ Welcome to my GitHub profile! This space highlights a selection of my projects a
 - Oracle SQL business-rule-driven database
 - Complex queries, triggers, and stored procedures
 
-# 🤖 Machine Learning (currently updating repos & README)
+# 🤖 Machine & Deep Learning
 
-A collection of machine learning projects and predictive analysis studies that demonstrate model building, training, and evaluation. *Link will be here*
+[Machine learning and deep learning projects showcasing model building, training, and evaluation](https://github.com/keithfaunce/machine_deep_learning)
 
-- Classification models (logistic regression)
-- Predictive analytics pipelines for real-world datasets
-- Deep learning exploration with PyTorch/TensorFlow
+- Multiple & simple linear regression (fish shape vs. weight, TV ads vs. sales)
+- Predictive analytics pipelines for structured datasets
+- Neural network experimentation with TensorFlow
+- CIFAR-10 image classification with CNNs (TensorFlow)
 
 # 📊 R & RStudio
 
